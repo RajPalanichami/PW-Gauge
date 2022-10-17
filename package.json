@@ -1,0 +1,10 @@
+{
+  "name": "gauge-pw-template",
+  "description": "Starter template for writing JavaScript tests for Gauge",
+  "scripts": {
+    "test": "gauge run specs/"
+  },
+   "devDependencies": {
+    "@playwright/test": "^1.27.0"
+  }
+}

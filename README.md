@@ -1,1 +1,1 @@
-# PW-Gauge
+# playwright-gauge
